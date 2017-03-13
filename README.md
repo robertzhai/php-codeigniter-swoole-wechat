@@ -1,5 +1,5 @@
-# php-ci-swoole-wechat-startup
-# 微信公众号项目 php-ci-swoole-wechat
+# php-codeigniter-swoole-wechat
+# 微信公众号长连接推
 
 **[**基于**]**
 
